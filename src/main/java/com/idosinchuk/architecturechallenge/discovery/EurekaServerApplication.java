@@ -1,4 +1,4 @@
-package com.idosinchuk.eureka;
+package com.idosinchuk.architecturechallenge.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -4,13 +4,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.idosinchuk.eureka</groupId>
-	<artifactId>eureka-architecturechallenge</artifactId>
+	<groupId>com.idosinchuk.architecturechallenge.discovery</groupId>
+	<artifactId>EurekaDiscoveryServer-ArchitectureChallenge</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>eureka-architecturechallenge</name>
-	<description>Eureka server for Architecture Challenge project for Spring Boot Cloud</description>
+	<name>EurekaDiscoveryServer-ArchitectureChallenge</name>
+	<description>Microservice for Architecture Challenge project with Spring Boot, Spring Cloud Eureka, Spring Cloud Config, etc.</description>
 
 	<!-- 1) Spring Boot project -->
 	<parent>
